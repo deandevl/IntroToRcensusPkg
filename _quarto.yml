@@ -1,0 +1,27 @@
+project:
+  title: "IntroToRcensusPkg"
+  output-dir: output
+format:
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 1150px
+      margin-width: 350px
+    fontsize: 1.4rem
+    page-layout: full
+    theme: darkly
+    css: style.css
+    toc: true
+    other-links:
+      - text: RcensusPkg
+        href: https://github.com/deandevl/RcensusPkg
+      - text: deandevl
+        href: https://github.com/deandevl
+    code-links:
+      - text: source
+        icon: github
+        href: "https://github.com/deandevl/IntroToRcensusPkg"
+
+number-sections: true
+date: last-modified
+author: Rick Dean
