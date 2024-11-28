@@ -3,13 +3,11 @@ project:
   output-dir: output
 format:
   html:
-    grid:
-      sidebar-width: 250px
-      body-width: 1150px
-      margin-width: 350px
     fontsize: 1.4rem
     page-layout: full
-    theme: darkly
+    theme:
+      light: cosmo
+      dark: darkly
     css: style.css
     toc: true
     other-links:
